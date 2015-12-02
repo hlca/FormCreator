@@ -4,6 +4,6 @@ class Awesome
 {
     public static function printAwesomeness()
     {
-        echo 'Awesome';
+        return 'Awesome';
     }
 }
