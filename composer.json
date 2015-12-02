@@ -1,0 +1,13 @@
+{
+    "name": "hsing/form-creator",
+    "description": "Form Creator from Table",
+    "type": "type",
+    "authors": [
+        {
+            "name": "Hsing-Li Chang",
+            "email": "hsinglic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
